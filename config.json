@@ -1,0 +1,13 @@
+{
+    "APIKey" : "REPLACE WITH FMI APIKEY",
+    "ForecastRange": 48,
+    "FMIBASEURL":"http://data.fmi.fi/fmi-apikey/",
+    "FMIQUERY" : "/wfs?request=getFeature&storedquery_id=fmi::forecast::hirlam::surface::point::multipointcoverage&parameters=temperature,windspeedms,WeatherSymbol3",
+    "FMIQUERYPARTS" : {
+        "latlon" : "&latlon=",
+        "time" : "&endtime="
+    },
+    "GOOGLEAPIKEY" : "REPLACE WITH GOOGLE GEOCODE APIKEY",
+    "GOOGLEBASEURL" : "https://maps.googleapis.com/maps/api/geocode/json?latlng=",
+    "GOOGLEQUERY" : "&result_type=locality&key="
+}
