@@ -8,5 +8,5 @@ Simple weather app build on [FMI API](http://catalog.fmi.fi)
 <br>
 <b>External libraries</b><br>
 -External libraries are chosen carefully, taking license to consideration.<br>
--<a href="https://github.com/webyonet/react-native-android-location-services-dialog-box">React Native Android Location Services Dialog Box</a>
+-<a href="https://github.com/webyonet/react-native-android-location-services-dialog-box">React Native Android Location Services Dialog Box</a><br>
 -<a href="https://github.com/connected-lab/react-native-xml2js">React Native XML to JSON Conversion</a>
